@@ -33,4 +33,4 @@ Welcome to my Cypress Showcase repository! This project contains a collection of
 
 ### 🎬 Short Video Showcase
 
-<img width="100" src="[[https://user-images.githubusercontent.com/112382473/231691095-0766e6b6-5172-48dc-9ec2-ea50d71f89e6.mp4](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/videos/2024-01-28%2021-14-35.mp4)](https://youtu.be/u-A654nwV-o)https://youtu.be/u-A654nwV-o">
+<img width="100" src="https://github.com/alatorre-sebastian/Portfolio_CYPRESS/blob/master/cypress/videos/actions.cy.js.mp4">
