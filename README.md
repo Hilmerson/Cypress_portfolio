@@ -1,4 +1,4 @@
-# 🟢 Cypress Showcase
+# 🟢 Cypress Showcase [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/urshkd&style=flat&logo=cypress)]
 
 Welcome to my Cypress Showcase repository! 🚀 This project features a collection of Cypress tests that showcase various functionalities.
 <p align="center">
