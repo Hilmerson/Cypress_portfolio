@@ -9,7 +9,12 @@ Welcome to my Cypress Showcase repository! This project contains a collection of
 
 In this example, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.
 
-## Test Categories
+# Table of Contents
+- [Basic Test Examples](#basic-test-examples)
+- [API Testing](#api-testing)
+- [Small E-Commerce Example](#small-e-commerce-example)
+
+## Basic Test Examples
 
 ✅ Alert Display
    - Clicks a button to trigger an alert and asserts that the alert occured.\
