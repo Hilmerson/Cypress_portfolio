@@ -65,3 +65,5 @@ https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/566f6ff4-b7c9-42
 
 ✅ Payment Page Tests
 - Checks whether a user can successfully add items to the cart, proceed to the payment page, and fill out the shipping form.
+
+https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/ddf008ab-767e-452b-bdca-da82cad723c6
