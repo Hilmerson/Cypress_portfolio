@@ -11,7 +11,7 @@ In this example, I will utilize the **[Automation Testing Practice Page](https:/
 
 # Table of Contents
 - [Basic Test Examples](#basic-test-examples)
-- [E-Commerce Examples](#e-commerce-examples)
+- [eCommerce Examples](#ecommerce-examples)
 
 ## Basic Test Examples
 
@@ -46,7 +46,7 @@ In this example, I will utilize the **[Automation Testing Practice Page](https:/
 
 https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/33c45fba-875e-4c4b-88d6-4e7fd15e1980
 
-## E-Commerce Examples
+## eCommerce Examples
 
 Each test suite begins by visiting the eCommerce authentication page, logging in with predefined user credentials, and then performing specific actions related to the tested functionality. The tests use Cypress commands to interact with the webpage elements, such as filling out forms, clicking buttons, and asserting the visibility or content of certain elements.
 
