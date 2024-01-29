@@ -62,12 +62,12 @@ These tests help ensure the proper functioning of key eCommerce features, coveri
 
 https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/096b6423-1de5-4737-a77d-f8cc88caef07
 
-✅ **Shopping Cart Page Tests**
+✅ **Shopping Cart Page Tests** - 💻 [Code Here!](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/e2e/shopping.cy.js)
 - Covers the functionality of adding items to the shopping cart, ensuring their visibility, setting quantities for each item, and removing some items from the cart.
 
 https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/566f6ff4-b7c9-421e-ac47-40e9a35685fe
 
-✅ **Payment Page Tests**
+✅ **Payment Page Tests** - 💻 [Code Here!](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/e2e/payment.cy.js)
 - Checks whether a user can successfully add items to the cart, proceed to the payment page, and fill out the shipping form.
 
 https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/ddf008ab-767e-452b-bdca-da82cad723c6
