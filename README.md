@@ -33,4 +33,4 @@ Welcome to my Cypress Showcase repository! This project contains a collection of
 
 ### 🎬 Short Video Showcase
 
-https://user-images.githubusercontent.com/112382473/231704267-8810b649-628e-4751-894c-a8c8b4e6a3aa.mp4
+https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/videos/2024-01-28%2021-14-35.mp4
