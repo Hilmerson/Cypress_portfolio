@@ -13,7 +13,9 @@ This portfolio serves as a place to demonstrate a range of examples of my skills
 - [Basic Test Examples](#basic-test-examples)
 - [eCommerce Examples](#ecommerce-examples)
 
-## Basic Test Examples - 💻 [Code Here!](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/e2e/basicsShowcase.cy.js)
+## Basic Test Examples
+
+💻 [Code Here!](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/e2e/basicsShowcase.cy.js)
 
 In these examples, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.
 
