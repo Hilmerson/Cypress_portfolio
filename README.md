@@ -7,7 +7,7 @@ Welcome to my Cypress Showcase repository! 🚀 This project features a collecti
   </kbd>
 </p>
 
-
+This portfolio serves as a place to demonstrate a range of examples of my skills in automated (E2E) testing using Cypress. Through this showcase, I'll provide insights into my capabilities and experiences in leveraging Cypress for comprehensive testing scenarios.
 
 # Table of Contents
 - [Basic Test Examples](#basic-test-examples)
