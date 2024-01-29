@@ -1,6 +1,11 @@
 # 🟢 Cypress Showcase
 
 Welcome to my Cypress Showcase repository! This project contains a collection of Cypress tests to demonstrate various functionalities.
+<p align="center">
+  <kbd>
+<img src="https://cdn.deliciousbrains.com/content/uploads/2018/09/28135025/db-End2EndTestingCypress-1540x748.jpg.webp"></img>
+  </kbd>
+</p>
 
 ## Test Categories
 
