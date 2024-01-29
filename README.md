@@ -6,7 +6,8 @@ Welcome to my Cypress Showcase repository! This project contains a collection of
 <img src="https://cdn.deliciousbrains.com/content/uploads/2018/09/28135025/db-End2EndTestingCypress-1540x748.jpg.webp"></img>
   </kbd>
 </p>
-In this example, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.\
+In this example, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.
+
 ## Test Categories
 
 ✅ Alert Display
