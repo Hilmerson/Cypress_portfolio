@@ -7,13 +7,15 @@ Welcome to my Cypress Showcase repository! 🚀 This project features a collecti
   </kbd>
 </p>
 
-In this example, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.
+
 
 # Table of Contents
 - [Basic Test Examples](#basic-test-examples)
 - [eCommerce Examples](#ecommerce-examples)
 
 ## Basic Test Examples
+
+In these examples, I will utilize the **[Automation Testing Practice Page](https://testautomationpractice.blogspot.com/)**, designed for testing various interactions that a user might engage in within a web application.
 
 ✅ **Alert Display**
    - Clicks a button to trigger an alert and asserts that the alert occured.
@@ -51,6 +53,8 @@ https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/33c45fba-875e-4c
 Each test suite begins by visiting the eCommerce authentication page, logging in with predefined user credentials, and then performing specific actions related to the tested functionality. The tests use Cypress commands to interact with the webpage elements, such as filling out forms, clicking buttons, and asserting the visibility or content of certain elements.
 
 These tests help ensure the proper functioning of key eCommerce features, covering scenarios like adding items to the cart, processing payments, managing the shopping cart, and handling user authentication.
+
+**In this illustration, I will utilize an [E-commerce page](https://qa-practice.netlify.app/auth_ecommerce.html) that features elements such as a login, adding items to the shopping cart, and placing an order for practice.**
 
 ✅ **Login Tests**
 - Checks whether the default user can successfully fill in the login form with correct credentials and be redirected to the homepage.
