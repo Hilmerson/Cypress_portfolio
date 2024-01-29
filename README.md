@@ -1,4 +1,4 @@
-# 🟢 Cypress Showcase [![Cypress Version](https://img.shields.io/badge/Cypress-v13.6.6-brightgreen)](https://www.cypress.io/)
+# 🟢 Cypress Showcase [![Cypress Version](https://img.shields.io/badge/Cypress-v13.6.3-brightgreen)](https://www.cypress.io/)
 
 Welcome to my Cypress Showcase repository! 🚀 This project features a collection of Cypress tests that showcase various functionalities.
 <p align="center">
