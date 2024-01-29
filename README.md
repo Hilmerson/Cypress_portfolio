@@ -61,5 +61,7 @@ https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/096b6423-1de5-47
 ✅ Shopping Cart Page Tests
 - Covers the functionality of adding items to the shopping cart, ensuring their visibility, setting quantities for each item, and removing some items from the cart.
 
+https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/0690465f-9ff8-4fae-bfaf-8bb13c75be1b
+
 ✅ Payment Page Tests
 - Checks whether a user can successfully add items to the cart, proceed to the payment page, and fill out the shipping form.
