@@ -33,6 +33,8 @@ Welcome to my Cypress Showcase repository! This project contains a collection of
 
 ### 🎬 Short Video Showcase
 
-https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/8527a2bd-3700-4ca3-8748-6722efcdc164
+https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/33c45fba-875e-4c4b-88d6-4e7fd15e1980
+
+
 
 
