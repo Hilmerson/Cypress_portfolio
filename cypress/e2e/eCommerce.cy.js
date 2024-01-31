@@ -1,17 +1,15 @@
 describe('Login with Default User', () => {
-    it('Should successfully fill the login form and redirect to the homepage', () => {
+    it('Should successfully fill the login form and logout afterwards', () => {
         // Visit the authentication page
         cy.visit("https://qa-practice.netlify.app/auth_ecommerce.html");
 
         // Fill in the login form with default user credentials
         cy.fixture("index").then((index) => {
-            cy.get(index.emailBox).type("admin@admin.com");
-            cy.get(index.passBox).type("admin123");
-            cy.get(index.submitBtn).click();
+            cy.loginForm('admin@admin.com','admin123')
         });
 
-        // Additional command (commented out) for a custom login command if needed
-        // cy.loginForm('admin@admin.com','admin123')
+        // Should log-out
+        cy.logout()
     });
 });
 
@@ -22,9 +20,7 @@ describe('Login without Default User', () => {
 
         // Attempt to login with non-default user credentials
         cy.fixture("index").then((index) => {
-            cy.get(index.emailBox).type("thisIsAtest@admin.com");
-            cy.get(index.passBox).type("test123");
-            cy.get(index.submitBtn).click();
+            cy.loginForm('thisIsATest@gmail.com','testing123123')
 
             // Verify the presence of a message indicating bad credentials
             cy.get(index.badCred).contains("Bad credentials! Please try again! Make sure that you've registered.");

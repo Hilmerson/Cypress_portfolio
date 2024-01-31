@@ -34,3 +34,16 @@ Cypress.Commands.add('shippingForm',(number,street,city,country)=>{
         cy.get(payment.successOrderMessage).contains("Congrats!")
     })
 })
+
+Cypress.Commands.add('loginForm',(email,password)=>{
+    cy.fixture("index").then((index)=>{
+        cy.get(index.emailBox).type(email);
+        cy.get(index.passBox).type(password);
+        cy.get(index.submitBtn).click();
+    })
+});
+
+Cypress.Commands.add('logout', () => {
+  // Custom command to simulate a logout action
+  cy.get('#logout').click();
+});

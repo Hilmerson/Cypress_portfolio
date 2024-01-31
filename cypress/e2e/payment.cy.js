@@ -3,9 +3,7 @@ describe('Shipping Page', () => {
         // Visit the authentication page and log in
         cy.visit("https://qa-practice.netlify.app/auth_ecommerce.html");
         cy.fixture("index").then((index) => {
-            cy.get(index.emailBox).type("admin@admin.com");
-            cy.get(index.passBox).type("admin123");
-            cy.get(index.submitBtn).click();
+            cy.loginForm('admin@admin.com','admin123')
         });
     });
 

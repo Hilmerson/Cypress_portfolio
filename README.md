@@ -60,6 +60,7 @@ These tests help ensure the proper functioning of key eCommerce features, coveri
 
 ✅ **Login Tests** - 💻 [Code Here!](https://github.com/Hilmerson/Cypress_portfolio/blob/master/cypress/e2e/eCommerce.cy.js)
 - Checks whether the default user can successfully fill in the login form with correct credentials and be redirected to the homepage.
+- Logs the user out.
 - Verifies that attempting to log in with incorrect credentials results in an error message indicating bad credentials and a suggestion to register.
 
 https://github.com/Hilmerson/Cypress_portfolio/assets/103628349/096b6423-1de5-4737-a77d-f8cc88caef07
